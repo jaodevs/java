@@ -1,6 +1,7 @@
 package poo;
 
 public class Conta {
+    
     public Conta(int numero){
         System.out.println("Criar objeto Conta");
         setNumero(numero);
